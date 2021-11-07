@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Airpods Wireless Bluetooth Headphones",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, excepturi minus autem cum accusamus saepe vero, impedit beatae?",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "iPhone 11 Pro 256GB Memory",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, animi voluptate quibusdam officia provident ",
+    "price": 589.99
+  },
+  {
+    "id": "3",
+    "name": "Cannon EOS 80D DSLR Camera",
+    "description": " ipsum dolor sit amet consequatur repellat cupiditate, incidunt excepturi minus autem cum accusamus saepe vero, impedit beatae?",
+    "price": 929.99
+  },
+  {
+    "id": "4",
+    "name": "Sony Playstation 4 Pro White Version",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, animi voluptate quibusdam officia provident possimus molestias ut consequatur ",
+    "price": 399.99
+  },
+  {
+    "id": "5",
+    "name": "Logitech G-Series Gaming Mouse",
+    "description": " officia provident possimus molestias ut consequatur repellat cupiditate, incidunt excepturi minus autem cum accusamus saepe vero, impedit beatae?",
+    "price": 89.99
+  }
+]

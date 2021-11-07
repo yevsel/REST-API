@@ -1,0 +1,16 @@
+{
+  "name": "second-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Yevoo Justice Selasi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2"
+  }
+}
